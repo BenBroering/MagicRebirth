@@ -1,0 +1,1 @@
+Laboratory with plants.  Shelves with mechanical part.  Lab system.

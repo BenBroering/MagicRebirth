@@ -1,5 +1,5 @@
 Ben - [[Light]] (Human) (Sorcerer) 
 Amanda - [[Athena SilverLeaf]] (Elf) (Bard) 
-Geraldie - [[Zolina Sun-tooth]] (Lion-Person) (Fighter) 
-Braydon - [[Nip]] (Cat-Person) (Druid)
-Bryce - [[Scrat]] (Raccoon-Person) (Artificer)
+Geraldine - [[Zolina Sun-tooth]] (Lionen) (Fighter) 
+Braydon - [[Nip]] (Catfolk) (Druid)
+Bryce - [[Scrat]] (Raccoonfolk) (Artificer)

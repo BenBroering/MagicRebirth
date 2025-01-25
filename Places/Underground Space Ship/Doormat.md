@@ -1,0 +1,1 @@
+Entrance to the [[Core]].  Keeps out the heat out of the rest of the ship.

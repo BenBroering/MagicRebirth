@@ -1,0 +1,1 @@
+A giant mechanical figure who was first found fighting the [[Skeletal Creature]].

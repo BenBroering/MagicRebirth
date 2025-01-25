@@ -1,0 +1,1 @@
+Powers the [[Underground Space Ship]].  Must enter through the [[Doormat]] Emits immense heat.
